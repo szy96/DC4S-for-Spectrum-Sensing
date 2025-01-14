@@ -2,4 +2,4 @@
 
 ### The repository is the source code for dataset generation and DC4S framework.
 
-### Waiting for update!
+### Waiting for update after publication!
