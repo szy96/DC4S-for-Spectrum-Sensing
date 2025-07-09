@@ -2,4 +2,4 @@
 
 ### The repository is the source code for DC4S framework.
 
-### Updates (including README.md) are still in progress......  (Update on 7/Jul 2025)
+### Updates (including README.md) are still in progress......  (Update on 10/Jul 2025)
